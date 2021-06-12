@@ -1,0 +1,14 @@
+# Filesystem detritus
+.DS_Store
+*.log
+*.tmp
+
+# Compressed archives
+*.bz2
+*.gz
+*.xz
+*.zip
+
+# Environment variables / secrets
+.envrc
+*.pem
